@@ -1,0 +1,15 @@
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\bin\Debug\net6.0\LacosCondicionais.exe
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\bin\Debug\net6.0\LacosCondicionais.deps.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\bin\Debug\net6.0\LacosCondicionais.runtimeconfig.json
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\bin\Debug\net6.0\LacosCondicionais.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\bin\Debug\net6.0\LacosCondicionais.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.csproj.AssemblyReference.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.AssemblyInfoInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.AssemblyInfo.cs
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.csproj.CoreCompileInputs.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\refint\LacosCondicionais.dll
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.pdb
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\LacosCondicionais.genruntimeconfig.cache
+C:\Users\User\Google Drive\Work\Studus de Work\C# - .NET\Projetos\IntroducaoAoCSharpUmaAbordagemI\LacosCondicionais\obj\Debug\net6.0\ref\LacosCondicionais.dll
